@@ -1,4 +1,5 @@
-//java code
+//java code to add 2 num
+
 
 
 import java.util.Scanner; // Import the Scanner class
